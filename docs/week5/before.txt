@@ -1,0 +1,16 @@
+Ruff summary copied from the lab handout for legacy_fees.py:
+
+6  PLR2004  magic-value-comparison
+2  F401     unused-import
+1  ARG001   unused-function-argument
+1  B006     mutable-argument-default
+1  C901     complex-structure
+1  E711     none-comparison
+1  E712     true-false-comparison
+1  F841     unused-variable
+1  N802     invalid-function-name
+1  PLR0913  too-many-arguments
+
+Total: 16 Ruff findings.
+
+Run `pylint week5/legacy_fees.py` locally and append its actual score here.
